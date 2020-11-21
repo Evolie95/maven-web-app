@@ -104,7 +104,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Youmbi Technologies Snapshot Nexus Repository </name>
+	      <name>Youmbi Technologies Snapshot Nexus Repository</name>
 	      <url>http://3.238.202.208:8081/youmbss/repository/ebay-yad-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
