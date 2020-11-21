@@ -98,14 +98,14 @@
 		
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.237.48.60:8888/landmarktech/repository/ebay-releases/</url>
+	      <name>Youmbi Technologies Releases Nexus Repository</name>
+	      <url>http://3.238.202.208:8081/youmbss/repository/ebay-youmbi/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.237.48.60:8888/landmarktech/repository/ebay-snapshots/</url>
+	      <name>Youmbi Technologies Snapshot Nexus Repository </name>
+	      <url>http://3.238.202.208:8081/youmbss/repository/ebay-yad-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
